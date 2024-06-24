@@ -317,6 +317,11 @@ header.sticky{
 .link {
     color: #13BBFF;
 }
+
+.link:hover {
+    border-bottom: 1px solid #59DAE3;
+}
+
 .main-row {
     display: flex;
     align-items: center;
