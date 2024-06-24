@@ -314,8 +314,12 @@ header.sticky{
     transition: all .50s ease;
 }
 
-.link {
+.textsite {
     color: #13BBFF;
+}
+
+.link {
+    color: #B7BFC9;
 }
 
 .link:hover {
