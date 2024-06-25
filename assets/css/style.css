@@ -16,7 +16,7 @@
     --main-color: #13bbff;
     --other-color: #c3cad5;
 
-    --h1-font: 4rem;
+    --h1-font: 4.5rem;
     --h2-font: 2.9rem;
     --p-font: 1rem;
 }
@@ -124,7 +124,7 @@ section {
 .main-content h1 {
     font-size: var(--h1-font);
     font-weight: 900;
-    margin: 20px 5px 20px;
+    margin: 20px 0px 20px;
     line-height: 1.2;
 }
 .main-content p {
@@ -548,7 +548,7 @@ form .send-btn:hover {
 
 @media (max-width: 470px) {
     :root {
-        --h1-font: 3rem;
+        --h1-font: 2.5rem;
         --h2-font: 2rem;
     }
     .about-img img {
