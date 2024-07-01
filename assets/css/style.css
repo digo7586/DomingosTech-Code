@@ -452,9 +452,7 @@ form .send-btn:hover {
     .logo {
         font-size: 17px;
     }
-    .social i {
-   color: var(--main-color);
-    }
+   
 }
 
 @media (max-width: 1380px) {
@@ -474,9 +472,7 @@ form .send-btn:hover {
         height: 90vh;
         background-position: center;
     }
-   .social i {
-   color: var(--main-color);
-    }
+  
 }
 
 @media (max-width: 1290px) {
@@ -491,9 +487,7 @@ form .send-btn:hover {
     .box h3 {
         font-size: 21px;
     }
-   .social i {
-   color: var(--main-color);
-    }
+   
 }
 
 @media (max-width: 1240px) {
