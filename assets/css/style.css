@@ -516,9 +516,7 @@ form .send-btn:hover {
         --h2-font: 2rem;
         --p-font: 15px;
     }
-   .social i {
-   color: var(--main-color);
-    }
+   
 }
 
 @media (max-width: 950px) {
@@ -550,9 +548,7 @@ form .send-btn:hover {
     .navlist.active {
         right:  0;
     }
-   .social i {
-   color: var(--main-color);
-    }
+   
 }
 
 @media (max-width: 680px) {
