@@ -549,7 +549,8 @@ form .send-btn:hover {
     .main-content p {
         width: 100%;
     }
-   
+   .social i {
+   color: var(--main-color);
 } 
 
 @media (max-width: 470px) {
