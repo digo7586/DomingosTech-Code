@@ -145,7 +145,7 @@ section {
     justify-content: center;
     width: 40px;
     height: 40px;
-    color: var(--main-color);
+    color: #fff;
     border-radius: 50%;
     backdrop-filter: brightness(88%);
     font-size: 30px;
@@ -452,9 +452,7 @@ form .send-btn:hover {
     .logo {
         font-size: 17px;
     }
-    .social i {
-    color: #fff;
-    }
+   color: var(--main-color);
 }
 
 @media (max-width: 1380px) {
@@ -474,9 +472,7 @@ form .send-btn:hover {
         height: 90vh;
         background-position: center;
     }
-    .social i {
-    color: #fff;
-    }
+   color: var(--main-color);
 }
 
 @media (max-width: 1290px) {
@@ -491,9 +487,7 @@ form .send-btn:hover {
     .box h3 {
         font-size: 21px;
     }
-    .social i {
-    color: #fff;
-    }
+   color: var(--main-color);
 }
 
 @media (max-width: 1240px) {
@@ -516,9 +510,7 @@ form .send-btn:hover {
         --h2-font: 2rem;
         --p-font: 15px;
     }
-    .social i {
-    color: #fff;
-    }
+   color: var(--main-color);
 }
 
 @media (max-width: 950px) {
@@ -550,9 +542,7 @@ form .send-btn:hover {
     .navlist.active {
         right:  0;
     }
-    .social i {
-    color: #fff;
-    }
+   color: var(--main-color);
 }
 
 @media (max-width: 680px) {
