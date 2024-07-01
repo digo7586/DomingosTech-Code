@@ -452,6 +452,9 @@ form .send-btn:hover {
     .logo {
         font-size: 17px;
     }
+    .social i {
+    color: #fff;
+    }
 }
 
 @media (max-width: 1380px) {
@@ -471,6 +474,9 @@ form .send-btn:hover {
         height: 90vh;
         background-position: center;
     }
+    .social i {
+    color: #fff;
+    }
 }
 
 @media (max-width: 1290px) {
@@ -484,6 +490,9 @@ form .send-btn:hover {
     }
     .box h3 {
         font-size: 21px;
+    }
+    .social i {
+    color: #fff;
     }
 }
 
@@ -506,6 +515,9 @@ form .send-btn:hover {
         --h1-font: 4rem;
         --h2-font: 2rem;
         --p-font: 15px;
+    }
+    .social i {
+    color: #fff;
     }
 }
 
@@ -537,6 +549,9 @@ form .send-btn:hover {
     }
     .navlist.active {
         right:  0;
+    }
+    .social i {
+    color: #fff;
     }
 }
 
