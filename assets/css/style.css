@@ -1110,7 +1110,7 @@ body {
 
 .right-contact .btn:hover {
     background-color: #fff;
-    color: #0056b3;
+    color: var(--gold);
 }
 
 .success-message {
