@@ -940,7 +940,7 @@ body {
 
 .btn-project a:hover {
     background-color: #fff;
-    color: #FFBE00;
+    color: var(--gold);
 }
 
 /* CONTACT */
